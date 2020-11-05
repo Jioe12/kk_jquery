@@ -1,0 +1,57 @@
+body{
+    background: #fafafa;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.wrapper{
+    width: 1170px;
+    margin: 50px;
+    color: black;
+}
+
+.wrapper h2{
+    text-align: center;
+    font-size: 25px;
+    color: darkblue;
+}
+
+.wrapper h3{
+    text-align: center;
+    font-size: 50px;
+    margin: 5% 0 0;
+    padding: 0;
+}
+
+.wrapper h4{
+    text-align: center;
+    font-size: 25pxpx;
+    color: darkblue;
+}
+
+.skills-area{
+    margin-top: 5%;
+}
+
+.single-skill{
+   width: 30%;
+   margin: 0 15px;
+   float: left;
+   text-align: center; 
+}
+
+
+.jumbotron{
+    background-image: url(back1.jpg);
+    background-size: cover;
+    height: 800px;
+    text-align: center;
+    position: relative;
+}
+
+.jumbotron .container{
+    z-index: 1;
+    position: relative;
+}
+
+
+
